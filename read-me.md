@@ -1,3 +1,3 @@
-#read-me
+#first in git
 
-first in git
+Aprendizado e desafios em Python
